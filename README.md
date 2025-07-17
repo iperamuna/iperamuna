@@ -38,7 +38,7 @@ Let’s build something meaningful!
 
 ## Rapidfire  
 - 🔭 Just released my ai capable Laravel Translation discover and auto language translator <a href="https://github.com/iperamuna/laravel-auto-translations" target="_blank" >Laravel Auto Translations</a>
-- 
+  
 - 🔭 Developed/Maintaining Cargo CMS 2.0 of Sri Lanka Port Authority since 2018  
   
 
