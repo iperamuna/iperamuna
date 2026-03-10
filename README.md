@@ -8,7 +8,8 @@ I am a **Software Lead Architect** and **Systems Specialist** with over **15 yea
 
 ## 🚀 Key Enterprise Impact & Projects
 
-- **Cargo CMS 2.0 (Sri Lanka Port Authority)**: Since 2018, I have been the lead architect for the national cargo management system, digitizing operations for **2,000+ professional users** and integrating with Sri Lanka Customs.
+- **Cargo CMS 2.0 (Sri Lanka Port Authority)**: Since 2018, I have been the lead architect for the Sri Lanka(National) Port Authories Cargo management system, digitizing operations  for **2,500+ professional users** and integrating with Sri Lanka Customs, NavisN4 Terminal Operating System and Lanka Pay payment aggregator payments.
+
 - **Accosa PG**: Specialized high-security payment gateway integration for the WooCommerce ecosystem.
 
 ## 🛠️ Performance & DevOps Research
@@ -29,8 +30,8 @@ I build tools that solve engineering bottlenecks. Check out my packages on [Pack
 
 ## 💻 Tech Stack & Expertise
 
-- **Core**: PHP (Laravel, Filament, Livewire), JavaScript (Alpine.js, TailwindCSS), Perl.
-- **Infrastructure**: Ubuntu Server, FrankenPHP, Caddy, Nginx, Redis, MySQL, SQLite.
+- **Core**: PHP (Laravel, Filament, Livewire), JavaScript (Alpine.js, TailwindCSS), Perl, Go, Python.
+- **Infrastructure**: Ubuntu Server, FrankenPHP, Caddy, Nginx, Redis, Dragonfly, MySQL, SQLite.
 - **Architecture**: OOD, DTOs, Clean Architecture, Distributed Systems.
 
 ---
